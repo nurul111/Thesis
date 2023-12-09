@@ -1,8 +1,7 @@
 # Thesis Title
 BL-NERC: An Introduction to Bengali Literature Named Entity Recognition Corpus
 # Thesis Abstract
-Named Entity Recognition (NER) iden-
-tifies specific nouns in text, such as people, places,
+Named Entity Recognition (NER) identifies specific nouns in text, such as people, places,
 and organizations. While it’s challenging to perform
 NER on the Bangla language due to its complexity
 and lack of resources, this study aims to address this
