@@ -15,7 +15,7 @@ This dataset, curated from 16 famous Bengali authors,
 is one of the largest of its kind and has been carefully
 annotated by experts. Our research provides detailed
 annotation guidelines and highlights the key aspects
-of this BanglaLit-NEC dataset. For initial testing, we
+of this BL-NERC dataset. For initial testing, we
 used sequence-to-sequence and transformer models
 for finetune where pretrained BERT model named
 ”sagarsarkar/bangla-bert-base” performed the best
